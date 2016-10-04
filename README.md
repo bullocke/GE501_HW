@@ -62,8 +62,8 @@ Example:
     > python q1.py -o 833
 ```
 
-```
 The commands can be run with options, for each the first problem you can change the orbit height and see the results:
 
+```
 python q1.py -o 1000
 ```
