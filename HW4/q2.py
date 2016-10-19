@@ -6,13 +6,13 @@
     Version: 1.1
 
 Usage:
-    q1.py [options] <wavelength> <solar_temp> <band_width>
+    q2.py [options] <wavelength> <solar_temp> <band_width>
 
 Options:
     -h --help                   Show help
-    --<wavelength>              Wavelength at band center
-    --<solar_temp>              Solar temperature at given a wavelength
-    --<band_width>              Band width
+    <wavelength>              Wavelength at band center
+    <solar_temp>              Solar temperature at given a wavelength
+    <band_width>              Band width
 
 
 Question:
@@ -22,7 +22,7 @@ Question:
 
 Example:
 
-    > python q1.py .485
+    > python q2.py .485 5970 .07
 
 """
 
