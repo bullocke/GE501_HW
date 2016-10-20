@@ -6,7 +6,7 @@
     Version: 1.1
 
 Usage:
-    q1.py [options] <wavelength> <TOA>
+    q3.py [options] <wavelength> <TOA>
 
 Options:
     -h --help                   Show help
